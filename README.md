@@ -17,3 +17,4 @@ computerscience	                  Announcent, Discussion,Help,General
 Iphone	                          Question,Photo/Video
  
 
+It is also necessary to have all librarys and modules used in the program.
