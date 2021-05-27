@@ -12,9 +12,9 @@ But you could use and any subreddit name if they have flairs to search.
 
 Subreddit Name	                  Flairs
 
-football	                        Discussion, News, Opinion, Article, Question
-computerscience	                  Announcent, Discussion,Help,General
-Iphone	                          Question,Photo/Video
+football	            /           Discussion, News, Opinion, Article, Question
+computerscience	      /            Announcent, Discussion,Help,General
+Iphone	               /           Question,Photo/Video
  
 
 It is also necessary to have all librarys and modules used in the program.
