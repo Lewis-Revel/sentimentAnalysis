@@ -1,7 +1,7 @@
 # Sentiment Analysis
 Final Year project
 
-The user need to add some search parameters before running the sentiment analysis
+The user needs to add some search parameters before running the sentiment analysis
 
 The subreddit name, search type and flair name are case sensitive and have to relevant to that subreddit.
 All subreddits have top hot and new as a search type
