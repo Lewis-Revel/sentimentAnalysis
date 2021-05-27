@@ -10,10 +10,12 @@ FortNiteBR subreddit (the one I’ve been using for testing) flairs include – 
 But you could use and any subreddit name if they have flairs to search.
  some others include
 
-Subreddit Name	                  Flairs
+Subreddit Name	       /           Flairs
 
 football	            /           Discussion, News, Opinion, Article, Question
+
 computerscience	      /            Announcent, Discussion,Help,General
+
 Iphone	               /           Question,Photo/Video
  
 
